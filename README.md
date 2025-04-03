@@ -1,5 +1,18 @@
 # Chatrix Real-Time Chat Application
+_COMPANY_: CODTECH IT SOLUTIONS
 
+_NAME_: HIMANSHU SEKHAR NAYAK
+
+_INTERN ID_: CT04WB136
+
+_DOMAIN_: FRONTEND WEB DEVELPOMENT
+
+_DURATION_: 4 WEEKS
+
+_MENTOR_: NEELA SANTHOSH KUMAR
+
+---
+# Chatrix Real-Time Chat Application
 A modern, responsive real-time chat application built with React and WebSocket technology. This application provides a seamless chat experience with a beautiful dark theme interface.
 
 ## Features
