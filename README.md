@@ -17,8 +17,6 @@ A modern, responsive real-time chat application built with React and WebSocket t
 - Lucide React for icons
 - Vite for build tooling
 
-
-
 ## Features in Detail
 
 ### Real-Time Messaging
