@@ -13,7 +13,7 @@ const Sidebar = () => {
       <div className="sidebar-header">
         <h2 className="sidebar-title">
           <Users size={20} />
-          Room-123
+          Room-17
         </h2>
       </div>
       <div className="members-list">
