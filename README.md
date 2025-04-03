@@ -28,7 +28,11 @@ A modern, responsive real-time chat application built with React and WebSocket t
 - WebSocket API
 - CSS3 with custom properties
 - Lucide React for icons
-- Vite for build tooling
+
+
+## Output
+![Image](https://github.com/user-attachments/assets/65ecec0f-78b6-46e2-872d-8e5c2d1f64b5)
+![Image](https://github.com/user-attachments/assets/de410af9-0c8a-4ba2-91eb-c26758c83b2b)
 
 ## Features in Detail
 
